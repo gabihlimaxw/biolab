@@ -14,7 +14,7 @@ public class Mago extends Personagem{
     }
 
     public String lancarMagia(){
-        return "Lançou magia de 20";
+        return "O mago Lançou magia de 20 no arqueiro";
     }
 
     @Override

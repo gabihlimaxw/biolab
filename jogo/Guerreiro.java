@@ -13,7 +13,7 @@ public class Guerreiro extends Personagem{
         super(nome, vida, ataque, defesa);
     }
     public String golpePesado(){
-        return "Deu um golpe de 80";
+        return "o guerreiro Deu um golpe de 80 no mago";
     }
 
     @Override

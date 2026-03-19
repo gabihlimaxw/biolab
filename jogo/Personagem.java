@@ -14,11 +14,11 @@ public class Personagem {
         this.ataque = ataque;
         this.defesa = defesa;
     }
-    public double atacar(){
+    public int atacar(){
         return ataque;
     }
 
-    public int receberDano(){
+    public int receberDano(int dano){
         return vida  = vida + ( defesa - ataque);
     }
 

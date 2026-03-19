@@ -14,7 +14,7 @@ public class Arqueiro extends Personagem{
     }
 
     public String disparoPreciso(){
-        return "Disparo Acertou";
+        return "o Arqueiro Disparou e Acertou no Thor";
     }
 
     @Override
